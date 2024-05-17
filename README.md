@@ -4,6 +4,7 @@ Codigo
 Pantalla
 ![image](https://github.com/AlejandroChango/Prueba1moviles/assets/23177104/36bbfaeb-1ba2-426c-9843-f214a480781f)
 Luego validamos el inicio de Sesion
+Codigo
 ![image](https://github.com/AlejandroChango/Prueba1moviles/assets/23177104/143d00f3-84af-4b59-bf33-a625317d7aa0)
 firebase:
 ![image](https://github.com/AlejandroChango/Prueba1moviles/assets/23177104/f1d63dab-8561-4a39-a1c1-0a54acfc292c)
